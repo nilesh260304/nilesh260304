@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nilesh260304
 - 👀 I’m interested in open source contributions.
 
-- 📫 Email me on nilesh260304@gmail.com for any query!
+- 📫 Email~  nilesh260304@gmail.com for any query!
 
 <!---
 nilesh260304/nilesh260304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
